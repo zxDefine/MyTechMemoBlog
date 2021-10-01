@@ -1,0 +1,9 @@
+- GameMakerStudio2
+	- ForAndroid
+		- [一些简单的问题集合](GameMakerStudio2\ForAndroid\一些简单的问题集合.md)
+		- [配置编译问题](GameMakerStudio2\ForAndroid\配置编译问题.md)
+	- ForWindows
+	- ForiOS
+- Python
+	- [一些简单的问题集合](Python\一些简单的问题集合.md)
+	- [对文件的操作](Python\对文件的操作.md)
