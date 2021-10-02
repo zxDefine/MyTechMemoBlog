@@ -9,4 +9,7 @@
 	- [对文件的操作](Python\对文件的操作.md)
 - Windows
 	- UWP
+		- [UWP中按钮使用Segoe_MDL2_Assets图标](Windows\UWP\UWP中按钮使用Segoe_MDL2_Assets图标.md)
+		- [UWP本地化设置](Windows\UWP\UWP本地化设置.md)
 		- [UWP访问ApplicationData方法](Windows\UWP\UWP访问ApplicationData方法.md)
+		- [一些简单的问题集合](Windows\UWP\一些简单的问题集合.md)
