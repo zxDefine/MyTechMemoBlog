@@ -24,7 +24,7 @@ UWP实现本地化的话,只需要提供不同的语言资源文件即可。而�
 
 ### 在代码中使用语言资源
 ```cs
-CurrentResourceLoader.GetString("AppName");
+Windows.ApplicationModel.Resources.ResourceLoader.GetForCurrentView().GetString("AppName");
 ```
 
 ### 使用多语言应用包编辑器(可选)
