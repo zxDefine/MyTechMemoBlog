@@ -1,9 +1,30 @@
+- Android
+	- [通过URL下载PDF并在第三方Reader中打开](Android\通过URL下载PDF并在第三方Reader中打开.md)
 - GameMakerStudio2
 	- ForAndroid
 		- [一些简单的问题集合](GameMakerStudio2\ForAndroid\一些简单的问题集合.md)
 		- [配置编译问题](GameMakerStudio2\ForAndroid\配置编译问题.md)
 	- ForWindows
 	- ForiOS
+- LeekCode刷题
+	- [No.0001两数之和](LeekCode刷题\No.0001两数之和.md)
+	- [No.0007整数反转](LeekCode刷题\No.0007整数反转.md)
+	- [No.0009回文数](LeekCode刷题\No.0009回文数.md)
+	- [No.0013罗马数字转整数](LeekCode刷题\No.0013罗马数字转整数.md)
+	- [No.0014最长公共前缀](LeekCode刷题\No.0014最长公共前缀.md)
+	- [No.0020有效的括号](LeekCode刷题\No.0020有效的括号.md)
+	- [No.0021合并两个有序链表](LeekCode刷题\No.0021合并两个有序链表.md)
+	- [No.0026删除排序数组中的重复项](LeekCode刷题\No.0026删除排序数组中的重复项.md)
+	- [No.0027移除元素](LeekCode刷题\No.0027移除元素.md)
+	- [No.0028实现strStr](LeekCode刷题\No.0028实现strStr.md)
+	- [No.0035搜索插入位置](LeekCode刷题\No.0035搜索插入位置.md)
+	- [No.0066加一](LeekCode刷题\No.0066加一.md)
+	- [No.0067二进制求和](LeekCode刷题\No.0067二进制求和.md)
+	- [No.0091解码方法](LeekCode刷题\No.0091解码方法.md)
+	- [No.0771宝石与石头](LeekCode刷题\No.0771宝石与石头.md)
+- Memo
+	- [在MacOS和Linux下安装zsh](Memo\在MacOS和Linux下安装zsh.md)
+	- [简单理解算法时间复杂度](Memo\简单理解算法时间复杂度.md)
 - Python
 	- [一些简单的问题集合](Python\一些简单的问题集合.md)
 	- [对文件的操作](Python\对文件的操作.md)
