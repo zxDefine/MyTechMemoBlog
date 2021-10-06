@@ -183,5 +183,5 @@ object OpenPDFHelper {
 ```
 
 ## 参考资料
-[Android网络请求忽略https证书验证](https://www.jianshu.com/p/4dc104b681d7)
-[Android中忽略okhttp ssl验证](https://www.jianshu.com/p/0501769e4183)
+* [Android网络请求忽略https证书验证](https://www.jianshu.com/p/4dc104b681d7)
+* [Android中忽略okhttp ssl验证](https://www.jianshu.com/p/0501769e4183)
