@@ -31,8 +31,8 @@
 	- [一些简单的问题集合](Python\一些简单的问题集合.md)
 	- [对文件的操作](Python\对文件的操作.md)
 - Windows
-	- C#
-		- [关于const、readonly与sealed](Windows\C#\关于const、readonly与sealed.md)
+	- CSharp
+		- [关于const、readonly与sealed](Windows\CSharp\关于const、readonly与sealed.md)
 	- UWP
 		- [UWP中按钮使用Segoe_MDL2_Assets图标](Windows\UWP\UWP中按钮使用Segoe_MDL2_Assets图标.md)
 		- [UWP本地化设置](Windows\UWP\UWP本地化设置.md)
