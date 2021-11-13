@@ -33,8 +33,10 @@
 - Windows
 	- CSharp
 		- [关于const、readonly与sealed](Windows\CSharp\关于const、readonly与sealed.md)
+		- [关于is、as和using关键字的使用](Windows\CSharp\关于is、as和using关键字的使用.md)
 	- UWP
 		- [UWP中按钮使用Segoe_MDL2_Assets图标](Windows\UWP\UWP中按钮使用Segoe_MDL2_Assets图标.md)
+		- [UWP创建每一行背景颜色交替不一样的ListView](Windows\UWP\UWP创建每一行背景颜色交替不一样的ListView.md)
 		- [UWP本地化设置](Windows\UWP\UWP本地化设置.md)
 		- [UWP访问ApplicationData方法](Windows\UWP\UWP访问ApplicationData方法.md)
 		- [一些简单的问题集合](Windows\UWP\一些简单的问题集合.md)
