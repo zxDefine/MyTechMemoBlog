@@ -24,6 +24,9 @@
 	- [No.0067二进制求和](LeekCode刷题\No.0067二进制求和.md)
 	- [No.0091解码方法](LeekCode刷题\No.0091解码方法.md)
 	- [No.0771宝石与石头](LeekCode刷题\No.0771宝石与石头.md)
+- Math
+	- Vector2D
+		- [求2D平面上两条线段的交点](Math\Vector2D\求2D平面上两条线段的交点.md)
 - Memo
 	- [在MacOS和Linux下安装zsh](Memo\在MacOS和Linux下安装zsh.md)
 	- [简单理解算法时间复杂度](Memo\简单理解算法时间复杂度.md)
