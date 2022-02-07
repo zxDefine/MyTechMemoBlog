@@ -1,4 +1,5 @@
 - Android
+	- [Android相机功能的最优Size问题](Android\Android相机功能的最优Size问题.md)
 	- [通过URL下载PDF并在第三方Reader中打开](Android\通过URL下载PDF并在第三方Reader中打开.md)
 - GameMakerStudio2
 	- ForAndroid
