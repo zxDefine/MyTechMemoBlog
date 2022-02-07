@@ -29,6 +29,7 @@
 	- Vector2D
 		- [求2D平面上两条线段的交点](Math\Vector2D\求2D平面上两条线段的交点.md)
 - Memo
+	- [Windows下安装youtube-dl以及使用](Memo\Windows下安装youtube-dl以及使用.md)
 	- [在MacOS和Linux下安装zsh](Memo\在MacOS和Linux下安装zsh.md)
 	- [简单理解算法时间复杂度](Memo\简单理解算法时间复杂度.md)
 - Python
