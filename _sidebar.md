@@ -9,6 +9,8 @@
 	- ForiOS
 - Html
 	- [Html的一些常用标签](Html\Html的一些常用标签.md)
+- Java
+	- [一些简单的问题合集](Java\一些简单的问题合集.md)
 - LeekCode刷题
 	- [No.0001两数之和](LeekCode刷题\No.0001两数之和.md)
 	- [No.0007整数反转](LeekCode刷题\No.0007整数反转.md)
