@@ -33,6 +33,7 @@
 - Memo
 	- [Windows下安装youtube-dl以及使用](Memo\Windows下安装youtube-dl以及使用.md)
 	- [在MacOS和Linux下安装zsh](Memo\在MacOS和Linux下安装zsh.md)
+	- [我的新建Git仓库的方式](Memo\我的新建Git仓库的方式.md)
 	- [简单理解算法时间复杂度](Memo\简单理解算法时间复杂度.md)
 - Python
 	- [一些简单的问题集合](Python\一些简单的问题集合.md)
