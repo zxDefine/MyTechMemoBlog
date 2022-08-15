@@ -7,6 +7,8 @@
 		- [配置编译问题](GameMakerStudio2\ForAndroid\配置编译问题.md)
 	- ForWindows
 	- ForiOS
+	- General
+		- [自定义字符串分隔函数](GameMakerStudio2\General\自定义字符串分隔函数.md)
 - Html
 	- [Html的一些常用标签](Html\Html的一些常用标签.md)
 - Java
