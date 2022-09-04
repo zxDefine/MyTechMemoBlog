@@ -38,6 +38,7 @@
 	- [我的新建Git仓库的方式](Memo\我的新建Git仓库的方式.md)
 	- [简单理解算法时间复杂度](Memo\简单理解算法时间复杂度.md)
 - Python
+	- [Python读取文件的三种方法](Python\Python读取文件的三种方法.md)
 	- [一些简单的问题集合](Python\一些简单的问题集合.md)
 	- [对文件的操作](Python\对文件的操作.md)
 - Windows
