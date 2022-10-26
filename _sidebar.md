@@ -1,6 +1,8 @@
 - Android
 	- [Android相机功能的最优Size问题](Android\Android相机功能的最优Size问题.md)
 	- [通过URL下载PDF并在第三方Reader中打开](Android\通过URL下载PDF并在第三方Reader中打开.md)
+- GameDevelop
+	- [返回有弹性顺滑的数字的函数](GameDevelop\返回有弹性顺滑的数字的函数.md)
 - GameMakerStudio2
 	- ForAndroid
 		- [一些简单的问题集合](GameMakerStudio2\ForAndroid\一些简单的问题集合.md)
