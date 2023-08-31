@@ -1,55 +1,56 @@
-- Android
-	- [Android相机功能的最优Size问题](Android\Android相机功能的最优Size问题.md)
-	- [通过URL下载PDF并在第三方Reader中打开](Android\通过URL下载PDF并在第三方Reader中打开.md)
-- GameDevelop
-	- [返回有弹性顺滑的数字的函数](GameDevelop\返回有弹性顺滑的数字的函数.md)
-- GameMakerStudio2
-	- ForAndroid
-		- [一些简单的问题集合](GameMakerStudio2\ForAndroid\一些简单的问题集合.md)
-		- [配置编译问题](GameMakerStudio2\ForAndroid\配置编译问题.md)
-	- ForWindows
-	- ForiOS
-	- General
-		- [自定义字符串分隔函数](GameMakerStudio2\General\自定义字符串分隔函数.md)
-- Html
-	- [Html的一些常用标签](Html\Html的一些常用标签.md)
-- Java
-	- [一些简单的问题合集](Java\一些简单的问题合集.md)
-- LeekCode刷题
-	- [No.0001两数之和](LeekCode刷题\No.0001两数之和.md)
-	- [No.0007整数反转](LeekCode刷题\No.0007整数反转.md)
-	- [No.0009回文数](LeekCode刷题\No.0009回文数.md)
-	- [No.0013罗马数字转整数](LeekCode刷题\No.0013罗马数字转整数.md)
-	- [No.0014最长公共前缀](LeekCode刷题\No.0014最长公共前缀.md)
-	- [No.0020有效的括号](LeekCode刷题\No.0020有效的括号.md)
-	- [No.0021合并两个有序链表](LeekCode刷题\No.0021合并两个有序链表.md)
-	- [No.0026删除排序数组中的重复项](LeekCode刷题\No.0026删除排序数组中的重复项.md)
-	- [No.0027移除元素](LeekCode刷题\No.0027移除元素.md)
-	- [No.0028实现strStr](LeekCode刷题\No.0028实现strStr.md)
-	- [No.0035搜索插入位置](LeekCode刷题\No.0035搜索插入位置.md)
-	- [No.0066加一](LeekCode刷题\No.0066加一.md)
-	- [No.0067二进制求和](LeekCode刷题\No.0067二进制求和.md)
-	- [No.0091解码方法](LeekCode刷题\No.0091解码方法.md)
-	- [No.0771宝石与石头](LeekCode刷题\No.0771宝石与石头.md)
-- Math
-	- Vector2D
-		- [求2D平面上两条线段的交点](Math\Vector2D\求2D平面上两条线段的交点.md)
-- Memo
-	- [Windows下安装youtube-dl以及使用](Memo\Windows下安装youtube-dl以及使用.md)
-	- [在MacOS和Linux下安装zsh](Memo\在MacOS和Linux下安装zsh.md)
-	- [我的新建Git仓库的方式](Memo\我的新建Git仓库的方式.md)
-	- [简单理解算法时间复杂度](Memo\简单理解算法时间复杂度.md)
-- Python
-	- [Python读取文件的三种方法](Python\Python读取文件的三种方法.md)
-	- [一些简单的问题集合](Python\一些简单的问题集合.md)
-	- [对文件的操作](Python\对文件的操作.md)
-- Windows
-	- CSharp
-		- [关于const、readonly与sealed](Windows\CSharp\关于const、readonly与sealed.md)
-		- [关于is、as和using关键字的使用](Windows\CSharp\关于is、as和using关键字的使用.md)
-	- UWP
-		- [UWP中按钮使用Segoe_MDL2_Assets图标](Windows\UWP\UWP中按钮使用Segoe_MDL2_Assets图标.md)
-		- [UWP创建每一行背景颜色交替不一样的ListView](Windows\UWP\UWP创建每一行背景颜色交替不一样的ListView.md)
-		- [UWP本地化设置](Windows\UWP\UWP本地化设置.md)
-		- [UWP访问ApplicationData方法](Windows\UWP\UWP访问ApplicationData方法.md)
-		- [一些简单的问题集合](Windows\UWP\一些简单的问题集合.md)
+- Programming
+	- Android
+		- [Android相机功能的最优Size问题](Programming\Android\Android相机功能的最优Size问题.md)
+		- [通过URL下载PDF并在第三方Reader中打开](Programming\Android\通过URL下载PDF并在第三方Reader中打开.md)
+	- GameDevelop
+		- [返回有弹性顺滑的数字的函数](Programming\GameDevelop\返回有弹性顺滑的数字的函数.md)
+	- GameMakerStudio2
+		- ForAndroid
+			- [一些简单的问题集合](Programming\GameMakerStudio2\ForAndroid\一些简单的问题集合.md)
+			- [配置编译问题](Programming\GameMakerStudio2\ForAndroid\配置编译问题.md)
+		- ForWindows
+		- ForiOS
+		- General
+			- [自定义字符串分隔函数](Programming\GameMakerStudio2\General\自定义字符串分隔函数.md)
+	- Html
+		- [Html的一些常用标签](Programming\Html\Html的一些常用标签.md)
+	- Java
+		- [一些简单的问题合集](Programming\Java\一些简单的问题合集.md)
+	- LeekCode刷题
+		- [No.0001两数之和](Programming\LeekCode刷题\No.0001两数之和.md)
+		- [No.0007整数反转](Programming\LeekCode刷题\No.0007整数反转.md)
+		- [No.0009回文数](Programming\LeekCode刷题\No.0009回文数.md)
+		- [No.0013罗马数字转整数](Programming\LeekCode刷题\No.0013罗马数字转整数.md)
+		- [No.0014最长公共前缀](Programming\LeekCode刷题\No.0014最长公共前缀.md)
+		- [No.0020有效的括号](Programming\LeekCode刷题\No.0020有效的括号.md)
+		- [No.0021合并两个有序链表](Programming\LeekCode刷题\No.0021合并两个有序链表.md)
+		- [No.0026删除排序数组中的重复项](Programming\LeekCode刷题\No.0026删除排序数组中的重复项.md)
+		- [No.0027移除元素](Programming\LeekCode刷题\No.0027移除元素.md)
+		- [No.0028实现strStr](Programming\LeekCode刷题\No.0028实现strStr.md)
+		- [No.0035搜索插入位置](Programming\LeekCode刷题\No.0035搜索插入位置.md)
+		- [No.0066加一](Programming\LeekCode刷题\No.0066加一.md)
+		- [No.0067二进制求和](Programming\LeekCode刷题\No.0067二进制求和.md)
+		- [No.0091解码方法](Programming\LeekCode刷题\No.0091解码方法.md)
+		- [No.0771宝石与石头](Programming\LeekCode刷题\No.0771宝石与石头.md)
+	- Math
+		- Vector2D
+			- [求2D平面上两条线段的交点](Programming\Math\Vector2D\求2D平面上两条线段的交点.md)
+	- Memo
+		- [Windows下安装youtube-dl以及使用](Programming\Memo\Windows下安装youtube-dl以及使用.md)
+		- [在MacOS和Linux下安装zsh](Programming\Memo\在MacOS和Linux下安装zsh.md)
+		- [我的新建Git仓库的方式](Programming\Memo\我的新建Git仓库的方式.md)
+		- [简单理解算法时间复杂度](Programming\Memo\简单理解算法时间复杂度.md)
+	- Python
+		- [Python读取文件的三种方法](Programming\Python\Python读取文件的三种方法.md)
+		- [一些简单的问题集合](Programming\Python\一些简单的问题集合.md)
+		- [对文件的操作](Programming\Python\对文件的操作.md)
+	- Windows
+		- CSharp
+			- [关于const、readonly与sealed](Programming\Windows\CSharp\关于const、readonly与sealed.md)
+			- [关于is、as和using关键字的使用](Programming\Windows\CSharp\关于is、as和using关键字的使用.md)
+		- UWP
+			- [UWP中按钮使用Segoe_MDL2_Assets图标](Programming\Windows\UWP\UWP中按钮使用Segoe_MDL2_Assets图标.md)
+			- [UWP创建每一行背景颜色交替不一样的ListView](Programming\Windows\UWP\UWP创建每一行背景颜色交替不一样的ListView.md)
+			- [UWP本地化设置](Programming\Windows\UWP\UWP本地化设置.md)
+			- [UWP访问ApplicationData方法](Programming\Windows\UWP\UWP访问ApplicationData方法.md)
+			- [一些简单的问题集合](Programming\Windows\UWP\一些简单的问题集合.md)
