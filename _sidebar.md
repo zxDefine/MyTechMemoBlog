@@ -11,6 +11,8 @@
 		- ForWindows
 		- ForiOS
 		- General
+			- [字体描边函数](Programming\GameMakerStudio2\General\字体描边函数.md)
+			- [画扇形函数](Programming\GameMakerStudio2\General\画扇形函数.md)
 			- [自定义字符串分隔函数](Programming\GameMakerStudio2\General\自定义字符串分隔函数.md)
 	- Html
 		- [Html的一些常用标签](Programming\Html\Html的一些常用标签.md)
