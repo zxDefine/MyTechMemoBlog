@@ -1,3 +1,4 @@
+```text
 play music1 "audio/demo_audio/music/youshang2.mp3"
 play music "audio/music/wangzi/PeriTune_Village_Fete_loop.mp3" fadein 2
 play music1 "audio/demo_audio/music/richang1.mp3"
@@ -2017,3 +2018,4 @@ play soundb "audio/sound/bai_yao/Futuristic 80s Synth Pad_01.ogg"
 play soundc "audio/sound/heartbeats_01.ogg"
 play sounda "audio/sound/bai_yao/Land Broke_01.mp3"
 play sound "audio/sound/houhui/Win Bell 2_01.mp3"
+```

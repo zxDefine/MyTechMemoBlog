@@ -1,3 +1,4 @@
+```python
 import json
 import os
 import re
@@ -1394,3 +1395,4 @@ if __name__ == '__main__':
 
     # 预处理结束
     print("Done!")
+```
