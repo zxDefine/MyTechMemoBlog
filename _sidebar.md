@@ -56,3 +56,7 @@
 			- [UWP本地化设置](Programming\Windows\UWP\UWP本地化设置.md)
 			- [UWP访问ApplicationData方法](Programming\Windows\UWP\UWP访问ApplicationData方法.md)
 			- [一些简单的问题集合](Programming\Windows\UWP\一些简单的问题集合.md)
+- TempFile
+	- [converter_cs](TempFile\converter_cs.py)
+	- [GameMethods](TempFile\GameMethods.cs)
+	- [sampleCode](TempFile\sampleCode.txt)
