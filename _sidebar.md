@@ -57,7 +57,7 @@
 			- [UWP访问ApplicationData方法](Programming\Windows\UWP\UWP访问ApplicationData方法.md)
 			- [一些简单的问题集合](Programming\Windows\UWP\一些简单的问题集合.md)
 - TempFile
-	- [2222](TempFile\2222.md)
 	- [converter_cs](TempFile\converter_cs.md)
 	- [GameMethods](TempFile\GameMethods.md)
 	- [sampleCode](TempFile\sampleCode.md)
+	- [Screen_Test_Cases](TempFile\Screen_Test_Cases.md)
